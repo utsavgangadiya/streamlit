@@ -34,4 +34,5 @@ dist/
 Thumbs.db
 
 # Logs
+
 *.log

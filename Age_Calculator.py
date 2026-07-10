@@ -12,6 +12,7 @@ dob = st.date_input(
     max_value=date.today()
 )
 
+
 if st.button("Calculate Age"):
     today = date.today()
 
