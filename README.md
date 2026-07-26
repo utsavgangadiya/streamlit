@@ -63,7 +63,7 @@ I will continue adding new mini projects as I learn more features of Streamlit.
 
 ---
 
-### Connect with me
+### Connect with me 📎
 
 - GitHub: **https://github.com/utsavgangadiya**
 
