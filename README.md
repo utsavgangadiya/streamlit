@@ -67,4 +67,4 @@ I will continue adding new mini projects as I learn more features of Streamlit.
 
 - GitHub: **https://github.com/utsavgangadiya**
 
-Happy Coding! 🚀
+Happy Coding ! 🚀
